@@ -1,0 +1,27 @@
+.container  {
+    width: 100%;
+}
+
+h1 {
+    font-size: 32px;
+    text-align: center;
+}
+input, button {
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    width: 250px;
+    height: 25px;
+}
+/* button {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    width: 200px;
+    height: 25px;
+} */
+p {
+    text-align: center;
+    font-size: 30px;
+}
