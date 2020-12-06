@@ -2,7 +2,7 @@
     width: 100%;
 }
 
-h1 {
+h1, h6 {
     font-size: 32px;
     text-align: center;
 }
